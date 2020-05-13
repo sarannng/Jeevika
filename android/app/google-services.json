@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "809962495525",
+    "firebase_url": "https://jeevika-2532066.firebaseio.com",
+    "project_id": "jeevika-2532066",
+    "storage_bucket": "jeevika-2532066.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809962495525:android:925c5a84ad8048f392e9cc",
+        "android_client_info": {
+          "package_name": "com.example.jeevika"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809962495525-u6165n6jjbhvs0dgndtf99qobm6l14ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD239u1KuNWSijl0P7bnMGj5dFNGxJ9-Bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809962495525-u6165n6jjbhvs0dgndtf99qobm6l14ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
